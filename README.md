@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently also preparing **Azure Data Certificate.**
 
+- 🔍 Results-oriented Data Analyst with approximately 2 years of hands-on experience translating complex datasets into strategic insights. Adept in statistical analysis, data visualization, and machine learning, I have made substantial contributions to the success of diverse analytical projects.
+
 - 💬 Ask me about **Python, R, Excel, SQL, Cloud Computing, Power BI and Tableau, SPSS or SAS, Extract, transform, and load (ETL),  exploratory data analysis (EDA)**
 
 - 📫 How to reach me **drashti31016@gmail.com**
