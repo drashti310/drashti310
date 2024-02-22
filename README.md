@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
 <h3 align="center">A skilled programmer I'm always keen to learn new skills.</h3>
-<img align="left" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af036d1ba18e94b10a112dc0e730/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632)">
+<img align="left" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🌱 I’m currently looking for job in **Data Analysis | SQL | Business Intelligence |Machine Learning and Artificial Intelligence.**
 
