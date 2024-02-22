@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
-<h3 align="center">A skilled programmer I'm always keen to learn new skills.</h3>
+<h2 align="center">"A skilled programmer I'm always keen to learn new skills."</h2>
 
-<h3 align="center">A passionate about applying data driven knowledge for strategic decision-making || Data Analysis || SQL || Business Intelligence || Machine Learning and Artificial Intelligence </h3>
+<h4 align="center">A passionate about applying data driven knowledge for strategic decision-making || Data Analysis || SQL || Business Intelligence || Machine Learning and Artificial Intelligence </h4>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 
