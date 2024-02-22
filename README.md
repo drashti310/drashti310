@@ -3,8 +3,11 @@
 <h2 align="center">"A skilled programmer I'm always keen to learn new skills."</h2>
 
 <h4 align="center">A passionate about applying data driven knowledge for strategic decision-making || Data Analysis || SQL || Business Intelligence || Machine Learning and Artificial Intelligence </h4>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🌱 I’m currently also preparing **Azure Data Certificate.**
+
+- 💬 Ask me about **Python, R, Excel, SQL, Cloud Computing, Power BI and Tableau, SPSS or SAS, Extract, transform, and load (ETL),  exploratory data analysis (EDA)**
 
 - 📫 How to reach me **drashti31016@gmail.com**
 
