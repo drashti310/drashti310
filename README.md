@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
-<h2 align="center">"A skilled programmer I'm always keen to learn new skills."</h2>
+<h2 align="center">A skilled programmer I'm always keen to learn new skills.</h2>
 
 <h4 align="center">A passionate about applying data driven knowledge for strategic decision-making || Data Analysis || SQL || Business Intelligence || Machine Learning and Artificial Intelligence </h4>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
