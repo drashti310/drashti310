@@ -1,33 +1,71 @@
-
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
-<h2 align="center">A skilled data enthusiast, I'm always keen to learn new skills.</h2>
+<h3 align="center">Data Enthusiast | Analytics • BI • Machine Learning • AI</h3>
 
-<h4 align="center">A passionate about applying data driven knowledge for strategic decision-making || Data Analysis || SQL || Business Intelligence || Machine Learning and Artificial Intelligence </h4>
-<img align="left" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
-- 🌱 I’m currently also preparing **Azure Data Certificate.**
-
-- 🔍 Adept in **statistical analysis, data visualization, and machine learning**, I have made substantial contributions to the success of diverse analytical projects.
-
-- 💬 Ask me about **Python, R, Excel, SQL, Cloud Computing, Power BI and Tableau, SPSS or SAS, Extract, transform, and load (ETL),  exploratory data analysis (EDA)**
-
-- 📫 How to reach me **drashti31016@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/drashti31016/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-<a href="https://leetcode.com/Drashti2302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
+<p align="center">
+  Passionate about applying <b>data-driven insights</b> to support strategic decision-making and solve real-world business problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </p>
+<p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="420" alt="coding"/>
+</p>
 
+---
+
+### 🌱 Currently Learning
+- Preparing for the **Azure Data Certification**
+- Enhancing skills in **Cloud Data Engineering & AI-driven analytics**
+
+---
+
+### 🔍 What I Do
+- Statistical Analysis & Data Modeling  
+- Data Visualization & Business Intelligence  
+- Machine Learning & Artificial Intelligence  
+- End-to-end **ETL pipelines** and **Exploratory Data Analysis (EDA)**  
+
+---
+
+### 💬 Ask Me About
+**Python, R, SQL, Excel, Power BI, Tableau, Cloud Computing,  
+SPSS, SAS, ETL Processes, and Data Analytics**
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** drashti31016@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/drashti31016](https://www.linkedin.com/in/drashti31016/)  
+- 🧠 **LeetCode:** [leetcode.com/Drashti2302](https://leetcode.com/Drashti2302/)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/drashti31016/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+  </a>
+  <a href="https://leetcode.com/Drashti2302/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Turning data into decisions | Always learning, always building
+</p>
