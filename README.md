@@ -9,6 +9,15 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="420" alt="coding"/>
 </p>
 
+
+---
+
+### 👩‍💻 Professional Experience
+- 💼 **Data Analyst / Data Enthusiast at Re‑Evolve Solutions**
+- Delivering insights using analytics, visualization, and data modeling
+- Working across data analysis, BI reporting, and cloud‑based solutions
+
+
 ---
 
 ### 🌱 Currently Learning
